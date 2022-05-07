@@ -1,0 +1,9 @@
+---
+# These settings are synced to GitHub by https://probot.github.io/apps/settings/
+
+_extends: gh-plumbing:.github/commons-settings.yml
+
+repository:
+  name: pixoo-rest
+  description: A RESTful API to easily interact with the Wi-Fi enabled Divoom Pixoo devices.
+  topics: python, docker, rest, swagger ,container, divoom, pixoo, pixoo64
